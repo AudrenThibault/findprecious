@@ -1,0 +1,237 @@
+body {
+    background-color: #f2edea;
+}
+
+@font-face {
+	font-family: "aniron";
+	src: url('anirm___.ttf');
+}
+
+h2 {
+    font-family: aniron;
+}
+
+.d-flex {
+    font-family: aniron;
+}
+
+.aniron {
+    font-family: aniron;
+}
+
+.navbar-dark {
+    font-family: aniron;
+    background-color: #f2701a;
+}
+
+.btn {
+    color: #f2701a;
+}
+
+.nav-pills {
+    font-family: aniron;
+}
+
+.nav-pills a {
+    color: gray;
+}
+
+.nav-pills a:hover {
+    color: #f2701a;
+    border-bottom: 5px solid #f2701a;
+}
+
+
+
+.fellows {
+    font-family: aniron;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.fellows {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    opacity: 1;
+}
+
+.orange {
+    color: orange;
+    font-size: 1em;
+}
+
+.orange2 {
+    color: orange;
+    font-size: 1.5em;
+}
+/*CSS du la partie intégration CSS précédante */
+
+.card-img-top {
+    opacity: 0.7;
+}
+
+.card-img-top:hover {
+    opacity: 1;
+}
+
+.card-img-caption:hover {
+    opacity: 1;
+}
+
+.card-img-caption:hover .textegandalf {
+    font-size: 1em;
+    margin-top: 7em;
+    opacity: 1;
+}
+
+.textegandalf:hover {
+    opacity: 1;
+}
+
+.line {
+    text-decoration: line-through orange;
+}
+
+.card-img-caption:hover .cadrereward {
+    opacity: 0;
+}
+
+.card {
+    font-family: aniron;
+}
+
+.cadrereward {
+    position: relative;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 1em;
+    width: 80%;
+    color: black;
+    margin:auto;
+    opacity: 0.9;
+    box-shadow: 8px 8px 12px #555;
+    transform: rotate(Xdeg);
+}
+
+.textegandalf {
+    text-align: center;
+    margin-top: 1em;
+    font-size: 1em;
+    color: white;
+    font-family: aniron;
+}
+
+.gimli {
+    filter: brightness(60%);
+}
+
+.textereward {
+    position: relative;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.button {
+    font-size: 1.5em;
+}
+
+.hunter1 {
+    text-align: left;
+}
+
+.media-body {
+    margin-left: 1em;
+    font-family: aniron;
+}
+
+tr {
+    text-align: center;
+}
+
+.containercard {
+    width: 100%;
+}
+
+th {
+    width: 50%;
+}
+
+.bgorange {
+    background-color: #f2701a;
+}
+
+
+footer a{
+  color: #bfffff;
+}
+footer a:hover{
+  color: white;
+}
+
+.footer-bottom{
+  background: black;
+}
+
+.footer-middle{
+  background: black;
+  padding-top: 2em;
+  color: white;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+
+
+/** Text on carousel **/
+
+.carousel-content {
+  position: absolute;
+  bottom: 50%;
+  left: 20%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 5px 6px rgba(0,0,0,.6);
+  font-size: 2em;
+  font-family: aniron;
+}
+
+/** Text on image bootstrap **/
+
+.card-img-caption {
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+}
+  
+.card-img-caption .card-img-top {
+  z-index: 0;
+}
+    
+.card-img-caption .card-text {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+}
+
+
+
+
