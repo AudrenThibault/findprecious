@@ -1,3 +1,3 @@
 # Findprecious
 
-Exercice d'intégration en HTML CSS. 
+Exercice d'intégration en HTML CSS avec bootstrap. 
